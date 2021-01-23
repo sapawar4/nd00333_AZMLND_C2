@@ -2,4 +2,4 @@
 
 ## Sandeep Pawar
 
-For project description, open `start_files` folder
+For project description, open `starter_files` folder
