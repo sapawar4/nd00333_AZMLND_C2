@@ -63,6 +63,8 @@ In this step ``aml-pipelines-with-automated-machine-learning-step.ipynb`` is upl
 
 ![](https://raw.githubusercontent.com/sapawar4/nd00333_AZMLND_C2/master/starter_files/images/image23.png)
 	- Below screenshot shows that the pipeline endpoint is active in service
+![](https://raw.githubusercontent.com/sapawar4/nd00333_AZMLND_C2/master/starter_files/images/pipeline_endpoint.JPG) 	
+	
 ![](https://raw.githubusercontent.com/sapawar4/nd00333_AZMLND_C2/master/starter_files/images/image25.png) 
 
 ## Screen Recording
